@@ -1,0 +1,24 @@
+{
+  "name": "nasir-youth-community-archive",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Nasir Youth Community — News, History & Memory Archive (Nasir County, Upper Nile State, South Sudan)",
+  "private": true,
+  "scripts": {
+    "setup": "cd client && npm install",
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "preview": "cd client && npm run preview",
+    "test": "node --test tests/archive.test.js"
+  },
+  "keywords": [
+    "nasir",
+    "south-sudan",
+    "upper-nile",
+    "digital-archive",
+    "human-rights",
+    "memorial"
+  ],
+  "author": "Nasir Youth Community",
+  "license": "CC-BY-NC-4.0"
+}
